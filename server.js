@@ -7,7 +7,7 @@ dotenv.config();
 const rootUrl = 'https://1xbet.com/LiveFeed';
 const action = {
   games: '/BestGamesExtZip',
-  game: '/GetGameZip',
+  game: '/GetGameZip',         
 };
 
 const state = {
